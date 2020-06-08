@@ -3,7 +3,7 @@
 
 > Intervención Comunitaria: 
 “Procesos intencionales de cambio, mediante mecanismos participativos tendientes al desarrollo de recursos de la población, el desarrollo de organizaciones comunitarias autónomas, a la modificación de las representaciones de su rol en la sociedad y sobre el valor de sus propias acciones para ser activo en las condiciones que las marginan y excluyen.”. 
-Lapalma (2001), sobre el Liderazgo Comunitario.
+Lapalma (2001).
 
 
 ## Presentación
@@ -21,7 +21,7 @@ Como movimiento social somos conscientes que esta labor integrativa es un trabaj
 
 Para lograr tal integración cultural nos valemos de una estructura organizacional, la misma que se ha construido de una manera orgánica, es decir, con la contribución progresiva de cada uno de los miembros que han sumado al crecimiento de esta red de comunidades locales. En ese sentido, reconocemos dos niveles de organización tanto interno (nuclear): voluntarios, coordinadoras, líderes activos y representantes, así como también externo (celular): líderes emergentes, sociedad, gobierno local y aliados. 
 
-Diversos son los factores que originan el desarrollo de una cultura, siendo en especial los principios y valores que guían la visión como sociedad, siendo así nuestra organización intercomunitaria promueve cuatro principios y valores que fundamentan el modelo de organización social basada en la integración cultural (Fig. 2). 
+Diversos son los factores que originan el desarrollo de una cultura, siendo en especial los principios y valores que guían la visión como sociedad, siendo así nuestra organización intercomunitaria promueve cuatro principios y valores que fundamentan el modelo de organización social basada en la integración cultural. 
 
 
 <img src="principles.png" style="border: 1px solid silver;" align="center" />
@@ -55,15 +55,19 @@ Finalmente, La Red FestiLab hace un llamado a todas aquellas entidades e institu
 
 Todos organizamos el FestiLab, súmate tú también a la red de redes.
 
+--- 
 
 ## Enlaces de interés  
 
+- Lapalma AI. El escenario de la intervención comunitaria. Revista de Psicología. 2001 Jan 1;10(2):ág. 61-70. 
+- Foro CILAC – Foro Abierto de Ciencias Latinoamérica y Caribe [Internet]. [cited 2020 Jun 8]. Available from: http://forocilac.org/
+- Malone TW. Superminds: The Surprising Power of People and Computers Thinking Together. New York: Little, Brown Spark; 2018. 384 p. 
+- Sarkki S, Parpan T, Melnykovych M, Zahvoyska L, Derbal J, Voloshyna N, et al. Beyond participation! Social innovations facilitating movement from authoritative state to participatory forest governance in Ukraine. Landscape Ecol. 2019 Jul 1;34(7):1601–18. 
+- GitHub Social Impact [Internet]. GitHub Social Impact. [cited 2020 Jun 8]. Available from: https://socialimpact.github.com/
 
 
---- 
 > ¿Deseas suscribirte a nuestra alianza por la integración cultural? 
 Contáctanos: red.festilab@gmail.com
-
 
 
 
